@@ -3,4 +3,4 @@
 
 
 
-## Made By [Nishnat Kumar]((https://www.linkedin.com/in/nishant-kumar-5ab48a260)/)
+## Made By [Nishant Kumar]((https://www.linkedin.com/in/nishant-kumar-5ab48a260)/)
