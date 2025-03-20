@@ -1,4 +1,4 @@
-## A Basic Pet-Website Created using HTML, CSS and JavaScript
+## A Pet-Website Created using HTML, CSS and JavaScript
 
 
 
